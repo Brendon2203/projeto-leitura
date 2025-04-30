@@ -1,4 +1,8 @@
 .text-top{
-  color: red;
+  color: blue;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

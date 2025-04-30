@@ -1,16 +1,12 @@
-import Login from "./components/Login";
-
+import Login from "./components/Login/Login";
 
 function App() {
-  
-  
   return (
     <div>
       <h1 className="text-top">Tela de Login</h1>
-      <Login/>
+      <Login />
     </div>
- 
   );
 }
 
-export default App
+export default App;
